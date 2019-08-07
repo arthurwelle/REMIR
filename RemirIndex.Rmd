@@ -48,8 +48,20 @@ g-table-intro h4 {
 
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_RendaMedia.html">Rendimento real médio habitual de todos os trabalhos </a>
   
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_CondicaodeAtividade.html"> Força de trabalho </a>
+  
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Subutilizacao.html"> Subutilização </a>
 
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Contribuintes.html"> Contribuição para a previdência </a>
+    
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Percentual_Contribuintes.html"> Contribuição para a previdência (%) </a>
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Grupamentos_Atividade.html"> Posição na ocupação </a>
+
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_RendaMédia_TrabalhoPrincipal.html">Rendimento real médio habitual do trabalhos principal </a>
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_TaxadeDesocupacao.html"> Desocupação </a>
+  
 ### PNADC Trimestral
 
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_TxDesocup_Cor_Sexo.html"> Taxa de desocupação por cor e sexo </a>
