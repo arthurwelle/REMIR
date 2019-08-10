@@ -64,8 +64,6 @@ g-table-intro h4 {
 
 
 **Rendimentos**: 
-
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_TaxadeDesocupacao.html"> Desocupação </a>
   
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_RendaMedia.html"> Rendimento real médio habitual de todos os trabalhos </a> 
   
@@ -84,8 +82,6 @@ g-table-intro h4 {
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Tx_Atividade.html"> Taxa de atividade </a> 
   
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_TxDesocup.html"> Taxa de desocupação </a>
-  
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Subutilizacao.html"> Subutilização </a> 
   
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_RendaMedia.html"> Renda média habitual real </a> 
   
