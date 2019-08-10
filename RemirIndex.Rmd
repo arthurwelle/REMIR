@@ -46,9 +46,13 @@ g-table-intro h4 {
 
 ### PNADC Mensal
 
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_RendaMedia.html">Rendimento real médio habitual de todos os trabalhos </a>
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_TaxadeDesocupacao.html"> Taxa de desocupação </a>
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Conta_Propria.html"> Conta-própria </a>
   
   * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_CondicaodeAtividade.html"> Força de trabalho </a>
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Grupamentos_Atividade.html"> Empregados por setor de atividade </a>
   
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Subutilizacao.html"> Subutilização </a>
 
@@ -56,17 +60,35 @@ g-table-intro h4 {
     
   * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Percentual_Contribuintes.html"> Contribuição para a previdência (%) </a>
   
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Grupamentos_Atividade.html"> Posição na ocupação </a>
 
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_RendaMédia_TrabalhoPrincipal.html">Rendimento real médio habitual do trabalhos principal </a>
-  
+
+
+**Rendimentos**: 
+
   * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_TaxadeDesocupacao.html"> Desocupação </a>
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_RendaMedia.html"> Rendimento real médio habitual de todos os trabalhos </a> 
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_RendaMédia_TrabalhoPrincipal.html">Rendimento real médio habitual do trabalhos principal </a>
+    
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Massa_Rendimento.html"> Massa de rendimentos </a>
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Variacao_Massa_Rendimentos.html"> Variação da massa de rendimentos </a>
+  
+  
+  
+  
   
 ### PNADC Trimestral
 
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_TxDesocup_Cor_Sexo.html"> Taxa de desocupação por cor e sexo </a>
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Tx_Atividade.html"> Taxa de atividade </a> 
   
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_RendaMedia_Cor_Sexo.html"> Renda média habitual real por cor e sexo </a> 
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_TxDesocup.html"> Taxa de desocupação </a>
   
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Subutilizacao.html"> Subutilização </a> 
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_RendaMedia.html"> Renda média habitual real </a> 
+  
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Tx_AutonomoComCNPJ.html"> Taxa de formalização dos autônomos (CNPJ) </a> 
   
   
