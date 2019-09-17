@@ -97,9 +97,9 @@ g-table-intro h4 {
 ### CAGED
   * <a href="https://arthurwelle.github.io/REMIR/Caged_SalAdmDesl_Sexo.html"> Salário real dos admitidos por sexo </a> 
   
-  * <a href="https://arthurwelle.github.io/REMIR/Caged_Adm_Intermitentes.html"> Porcentam de admitidos intermitentes </a> 
+  * <a href="https://arthurwelle.github.io/REMIR/Caged_Adm_Intermitentes.html"> Porcentagem de admitidos intermitentes </a> 
   
-  * <a href="https://arthurwelle.github.io/REMIR/Caged_Adm_Parciais.html"> Porcentam de admitidos parciais </a> 
+  * <a href="https://arthurwelle.github.io/REMIR/Caged_Adm_Parciais.html"> Porcentagem de admitidos parciais </a> 
 
   * <a href="https://arthurwelle.github.io/REMIR/Caged_Adm_Intermitentes_Ocupacao.html"> Prevalência de intermitentes por ocupação </a> 
   
