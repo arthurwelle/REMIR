@@ -52,7 +52,7 @@ g-table-intro h4 {
   
   * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_CondicaodeAtividade.html"> Força de trabalho </a>
   
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Grupamentos_Atividades.html"> Empregados por setor de atividade </a>
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_Grupamento_Atividades.html"> Empregados por setor de atividade </a>
   
   * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Subutilizacao.html"> Subutilização </a>
 
@@ -64,8 +64,7 @@ g-table-intro h4 {
 
 
 **Rendimentos**: 
-  
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_RendaMedia.html"> Rendimento real médio habitual de todos os trabalhos </a> 
+
   
   * <a href="https://arthurwelle.github.io/REMIR/PNADCMensal_RendaMédia_TrabalhoPrincipal.html">Rendimento real médio habitual do trabalhos principal </a>
     
@@ -102,4 +101,7 @@ g-table-intro h4 {
   * <a href="https://arthurwelle.github.io/REMIR/Caged_Adm_Parciais.html"> Porcentagem de admitidos parciais </a> 
 
   * <a href="https://arthurwelle.github.io/REMIR/Caged_Adm_Intermitentes_Ocupacao.html"> Prevalência de intermitentes por ocupação </a> 
+  
+  <br/>
+  <br/>
   
