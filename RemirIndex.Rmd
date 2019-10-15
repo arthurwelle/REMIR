@@ -68,9 +68,9 @@ g-table-intro h4 {
 
 ### Formalização
 
-  * <a href="https://arthurwelle.github.io/REMIR/R.PNADCT_Formalizacao1.html"> PNADC Trimestral - Taxa de formalização contribuição com previdência (Sexo, Idade, Região, Raça/Cor) </a>
+  * <a href="https://arthurwelle.github.io/REMIR/R.PNADCT_Formalizacao1.html"> PNADC Trimestral - Taxa de formalização (Sexo, Idade, Região, Raça/Cor) </a> Proporção dentre os ocupados que são assalariados formais ou autônomos e empregadores com contribuição previdenciária.
 
-  * <a href="https://arthurwelle.github.io/REMIR/R.PNADCT_TxLegalidade.html"> PNADC Trimestral - Taxa de legalidade (critério: Carteira e CNPJ) (Sexo, Idade, Região, Raça/Cor) </a> 
+  * <a href="https://arthurwelle.github.io/REMIR/R.PNADCT_TxLegalidade.html"> PNADC Trimestral - Taxa de legalidade (critério: Carteira e CNPJ) (Sexo, Idade, Região, Raça/Cor) </a> Proporção dentre os ocupados que são assalariados com carteira assinada ou empregadores e autônomos com cadastro de CNPJ.
 
   * <a href="https://arthurwelle.github.io/REMIR/R.PNADCT_InformalizacaoAdalberto.html"> Taxa de informalidade (Sexo, Idade, Região, Raça/Cor) </a> Proporção dentre os ocupados que são assalariados informais (sem carteira assinada), autônomos sem CNPJ, empregadores sem CNPJ com até um empregado e trabalhadores no auxílio familiar 
 
