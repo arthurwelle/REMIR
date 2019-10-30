@@ -64,6 +64,10 @@ g-table-intro h4 {
 
   * <a href="https://arthurwelle.github.io/REMIR/R.PNADC_MapaDesempregoUF.html"> PNADC Trimestral - Mapa da taxa de desocupação por UF </a>
   
+  * <a href="https://arthurwelle.github.io/REMIR/R.Rais_Qtd.html"> RAIS -  Quantidade de vínculos 31/12 </a>
+  
+  * <a href="https://arthurwelle.github.io/REMIR/R.Rais_Negativa.html"> RAIS Negativa, quantidade </a>  
+  
   
 
 ### Formalização
@@ -90,6 +94,8 @@ g-table-intro h4 {
   * <a href="https://arthurwelle.github.io/REMIR/R.Caged_Adm_Parciais.html"> CAGED - Porcentagem de admitidos parciais </a> 
 
   * <a href="https://arthurwelle.github.io/REMIR/R.Caged_Adm_Intermitentes_Ocupacao.html"> CAGED - Prevalência de intermitentes por ocupação </a> 
+
+  * <a href="https://arthurwelle.github.io/REMIR/R.RAIS_Intermitentes_CBO.html"> RAIS - Prevalência de intermitentes por ocupação </a> 
 
 
 
@@ -124,4 +130,53 @@ g-table-intro h4 {
   <br/>
   <br/>
   <br/>
+  
+  
+```{r}
+    library(sf)
+    library(geobr)
+    library(ggplot2)
+    library(gridExtra)
+
+# Read all Brazilian states
+    states <- geobr::read_state(code_state = 'all', year=2015)
+
+# Select six states
+    states6 <- subset(states, code_state %in% c(35,33,53,29,31,23))
+
+# centroids, for refernece in the position of the map
+    states6$centroid <- 
+         sf::st_transform(states6, 29101) %>% 
+         sf::st_centroid() %>% 
+         sf::st_transform(., '+proj=longlat +ellps=GRS80 +no_defs')  %>% 
+         sf::st_geometry()
+
+# set padding
+    padding <-7 
+
+# function to make plots
+    graph <- function(x){
+      ggplot2::ggplot(states6[x,]) +
+               geom_sf() +
+               coord_sf(xlim = c(states6$centroid[[x]][1]-padding , 
+                                 states6$centroid[[x]][1]+padding), 
+                        ylim = c(states6$centroid[[x]][2]-padding , 
+                                 states6$centroid[[x]][2]+padding), 
+                        expand = FALSE)
+    }
+
+# create a bunch of plots
+    
+    g1 <- graph(1)
+    g2 <- graph(2)
+    g3 <- graph(3)
+    g4 <- graph(4)
+    g5 <- graph(5)
+    g6 <- graph(6)
+
+# grid them together
+    g <- gridExtra::grid.arrange(g1, g2, g3, g4, g5, g6, ncol=3)
+    g
+    
+```
   
