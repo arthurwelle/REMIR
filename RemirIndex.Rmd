@@ -46,7 +46,7 @@ g-table-intro h4 {
 
 ### Números gerais
   
-  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Tx_Atividade.html"> PNADC Trimestral - Taxa de atividade (Sexo, Idade, Região, Raça/Cor) </a> 
+  * <a href="https://arthurwelle.github.io/REMIR/PNADCT_Tx_Participacao.html"> PNADC Trimestral - Taxa de participação (14 anos ou mais)(Sexo, Idade, Região, Raça/Cor) </a> 
   
   * <a href="https://arthurwelle.github.io/REMIR/R.PNADCT_TxDesocup.html"> PNADC Trimestral - Taxa de desocupação (Sexo, Idade, Região, Raça/Cor) </a>
   
