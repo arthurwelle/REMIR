@@ -125,7 +125,10 @@ g-table-intro h4 {
   * <a href="https://arthurwelle.github.io/REMIR/R.PNADC_HorasTrab.html"> Horas trabalhadas em todos os trabalhos (PNADC Trimestral) </a> 
   
   
- 
+### Outros
+
+  * <a href="https://arthurwelle.github.io/REMIR/R.BC_ConcessaoCreditoAno_MEI.html"> Concessão de crédito ao MEI </a> 
+
   
 
   
