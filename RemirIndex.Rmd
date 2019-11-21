@@ -60,9 +60,11 @@ g-table-intro h4 {
   
   * <a href="https://arthurwelle.github.io/REMIR/R.PNADCMensal_Subutilizacao.html">  Subutilização (PNADC Mensal) </a>
   
-  * <a href="https://arthurwelle.github.io/REMIR/R.PNADCMensal_Posicao_Ocupacao1.html"> Quantidade de ocupados por posição na ocupação (PNADC Mensal) </a>
+  * <a href="https://arthurwelle.github.io/REMIR/R.PNADC_EvolucaoPorOcupacao.html"> Quantidade de ocupados por posição na ocupação (PNADC Mensal) </a>
 
   * <a href="https://arthurwelle.github.io/REMIR/R.PNADC_MapaDesempregoUF.html"> Mapa da taxa de desocupação por UF (PNADC Trimestral)</a>
+  
+   * <a href="https://arthurwelle.github.io/REMIR/R.PNADC_MapaDesempregoUF.html"> Evolução 20 maiores ocupações (PNADC Trimestral)</a> 
   
   * <a href="https://arthurwelle.github.io/REMIR/R.Rais_Qtd.html"> RAIS -  Quantidade de vínculos 31/12 </a>
   
